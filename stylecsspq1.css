@@ -1,8 +1,11 @@
 h1{
     color: orange;
+    font-weight: 900;
+    text-align: center;
 }
 P{
     color: white;
+    text-align: justify;
     background-color: black;
 }
 button{
