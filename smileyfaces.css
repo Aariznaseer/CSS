@@ -1,0 +1,24 @@
+#cricle{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: #ffa511;
+
+}
+#eyes{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    margin: 50px;
+    position: relative; top: -350px;left: 50px;
+}
+#mouth{
+    height: 60px;
+    width: 150px;
+    background-color: brown;
+    position: relative; top:-300px ;left:120px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
